@@ -18,7 +18,7 @@ See what happens.
 Retention in cohorts
 https://docs.google.com/spreadsheets/d/19X7vQODL-ZxhuSs2DAkun_wFqJFcGq7b83OJswwmxPY/edit?usp=sharing
 
-Events Patterns in cohorts
+Event Patterns in cohorts
 https://docs.google.com/spreadsheets/d/1nvhGCoX0rVwtJSMNaUQf5Ijxctw8yzJyG67QQkOqvpk/edit?usp=sharing
 
 Funnel in cohorts
